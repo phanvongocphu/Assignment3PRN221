@@ -1,0 +1,65 @@
+﻿@page
+@model FStore.SalesRazorApp.Pages.OrderPage.CreateModel
+
+@{
+    ViewData["Title"] = "Create Order";
+    string role = HttpContext.Session.GetString("Role");
+    if (role != "User")
+    {
+        Response.Redirect("/Permission");
+    }
+}
+
+<h1>Create Order</h1>
+
+<h4>Order</h4>
+<hr />
+<form method="post" asp-page-handler="AddToOrderDetail">
+    <div class="form-group">
+        <label asp-for="SelectedProductId" class="control-label">Select Product</label>
+        <select asp-for="SelectedProductId" class="form-control" asp-items="Model.Products"></select>
+    </div>
+    <div class="form-group">
+        <label>Quantity</label>
+        <input type="number" asp-for="Quantity" class="form-control" min="1" />
+    </div>
+    <div class="form-group">
+        <label>Discount (%)</label>
+        <input type="number" asp-for="Discount" class="form-control" min="0" max="100" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Add to Order" class="btn btn-primary" />
+    </div>
+</form>
+
+<h4>Order Details</h4>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Quantity</th>
+            <th>Unit Price</th>
+            <th>Discount</th>
+            <th>Subtotal</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var detail in Model.OrderDetails)
+        {
+            <tr>
+                <td>@detail.Product.ProductName</td>
+                <td>@detail.Quantity</td>
+                <td>@detail.UnitPrice</td>
+                <td>@detail.Discount</td>
+                <td>@(detail.Quantity * detail.UnitPrice)</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<form method="post" asp-page-handler="CreateOrder">
+    <div>
+        <input type="submit" value="Create Order" class="btn btn-success" />
+        <a href="./Index" class="btn btn-danger">Cancel</a>
+    </div>
+</form>

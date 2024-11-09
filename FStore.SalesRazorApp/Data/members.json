@@ -1,0 +1,21 @@
+[
+  {
+    "MemberId": 1,
+    "Email": "admin@gmail.com",
+    "CompanyName": "Doe Industries",
+    "City": "New York",
+    "Country": "USA",
+    "Password": "123",
+    "Role": "Admin"
+  },
+  {
+      "MemberId": 2,
+      "Email": "user@gmail.com",
+      "CompanyName": "Peter Industries",
+      "City": "New York",
+      "Country": "USA",
+      "Password": "123",
+      "Role": "User"
+  }
+]
+

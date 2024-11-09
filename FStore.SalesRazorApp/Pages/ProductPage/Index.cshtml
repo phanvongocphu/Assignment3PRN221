@@ -1,0 +1,66 @@
+﻿@page
+@model FStore.SalesRazorApp.Pages.ProductPage.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+    string role = HttpContext.Session.GetString("Role");
+    if (role != "Admin")
+    {
+        Response.Redirect("/Permission");
+    }
+}
+
+<h1>Product Management</h1>
+
+<form method="get" asp-page="Create">
+    <button type="submit" class="btn btn-primary">Create New</button>
+</form><br />
+<form method="post" asp-page-handler="Logout">
+    <button type="submit" class="btn btn-danger">Logout</button>
+</form><br />
+<form method="get">
+    <input type="text" name="SearchName" placeholder="Search by name" value="@Model.SearchName" />
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Product[0].ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product[0].Weight)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product[0].UnitPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product[0].UnitInStock)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Product) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Weight)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitInStock)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.ProductId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.ProductId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.ProductId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

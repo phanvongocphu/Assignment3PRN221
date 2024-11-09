@@ -1,0 +1,728 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\productpage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\productpage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\productpage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\productpage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\productpage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\productpage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\productpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\productpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\dao\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\dao\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\productpage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\productpage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\productpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\productpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\productpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\productpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\dao\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\dao\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\productpage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\productpage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\fstore.salesrazorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\fstore.salesrazorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\dao\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\dao\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\repository\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\repository\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\irepository\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\irepository\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\fstore.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\fstore.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\dao\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\dao\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABE9718-7459-4261-A919-BDE4BB08AB4C}|FStore.BusinessObject\\FStore.BusinessObject.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.businessobject\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABE9718-7459-4261-A919-BDE4BB08AB4C}|FStore.BusinessObject\\FStore.BusinessObject.csproj|solutionrelative:fstore.businessobject\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\orderpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\orderpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\orderpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\orderpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\orderpage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\orderpage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\orderpage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\orderpage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\irepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\irepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\orderpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\orderpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABE9718-7459-4261-A919-BDE4BB08AB4C}|FStore.BusinessObject\\FStore.BusinessObject.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.businessobject\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABE9718-7459-4261-A919-BDE4BB08AB4C}|FStore.BusinessObject\\FStore.BusinessObject.csproj|solutionrelative:fstore.businessobject\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\orderpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\orderpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.dataaccess\\repository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D859D72-2F09-47ED-9355-9C3BECE8764B}|FStore.DataAccess\\FStore.DataAccess.csproj|solutionrelative:fstore.dataaccess\\repository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\memberpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\memberpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\productpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\productpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\productpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\productpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\memberpage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\memberpage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\pages\\permission.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\pages\\permission.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.salesrazorapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9F32835-2F0F-48B9-95F4-BA01F2E34BF8}|FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj|solutionrelative:fstore.salesrazorapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83FE1778-B505-4A19-B593-7135D87AB8C2}|FStore.WPF\\FStore.SalesWPFApp.csproj|solutionrelative:fstore.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABE9718-7459-4261-A919-BDE4BB08AB4C}|FStore.BusinessObject\\FStore.BusinessObject.csproj|c:\\users\\phanv\\documents\\fpt\\prn221\\assignment\\fstore\\fstore.businessobject\\migrations\\20241102130732__phu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABE9718-7459-4261-A919-BDE4BB08AB4C}|FStore.BusinessObject\\FStore.BusinessObject.csproj|solutionrelative:fstore.businessobject\\migrations\\20241102130732__phu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDetailDAO.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\DAO\\OrderDetailDAO.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\DAO\\OrderDetailDAO.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\DAO\\OrderDetailDAO.cs",
+              "RelativeToolTip": "FStore.DataAccess\\DAO\\OrderDetailDAO.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:43:14.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\DAO\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\DAO\\ProductDAO.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\DAO\\ProductDAO.cs",
+              "RelativeToolTip": "FStore.DataAccess\\DAO\\ProductDAO.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAiwJIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:49:42.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\ProductPage\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\ProductPage\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\ProductPage\\Delete.cshtml.cs",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\ProductPage\\Delete.cshtml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:14:51.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "FStore.DataAccess\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwDAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:06:35.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\ProductPage\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\ProductPage\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\ProductPage\\Edit.cshtml.cs",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\ProductPage\\Edit.cshtml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:14:51.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\ProductPage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\ProductPage\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\ProductPage\\Edit.cshtml",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\ProductPage\\Edit.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAB0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T08:14:51.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\ProductPage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\ProductPage\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\ProductPage\\Delete.cshtml",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\ProductPage\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T08:14:51.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\IRepository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "FStore.DataAccess\\IRepository\\IProductRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA9wBIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:06:17.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\ProductPage\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\ProductPage\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\ProductPage\\Details.cshtml.cs",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\ProductPage\\Details.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:14:51.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\ProductPage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\ProductPage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\ProductPage\\Index.cshtml.cs",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\ProductPage\\Index.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:14:52.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\ProductPage\\Create.cshtml",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\ProductPage\\Create.cshtml",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\ProductPage\\Create.cshtml",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\ProductPage\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T08:14:51.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\DAO\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\DAO\\OrderDAO.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\DAO\\OrderDAO.cs",
+              "RelativeToolTip": "FStore.DataAccess\\DAO\\OrderDAO.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAvwDMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:45:27.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\ProductPage\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\ProductPage\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\ProductPage\\Create.cshtml.cs",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\ProductPage\\Create.cshtml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwCsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:14:51.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\Repository\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\Repository\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\Repository\\MemberRepository.cs",
+              "RelativeToolTip": "FStore.DataAccess\\Repository\\MemberRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAewA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:38:48.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\IRepository\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\IRepository\\IMemberRepository.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\IRepository\\IMemberRepository.cs",
+              "RelativeToolTip": "FStore.DataAccess\\IRepository\\IMemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:39:11.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:56:47.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MemberDAO.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\DAO\\MemberDAO.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\DAO\\MemberDAO.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\DAO\\MemberDAO.cs",
+              "RelativeToolTip": "FStore.DataAccess\\DAO\\MemberDAO.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwCkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:38:11.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FStore.SalesRazorApp",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj",
+              "RelativeToolTip": "FStore.SalesRazorApp\\FStore.SalesRazorApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T14:52:59.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FStore.DataAccess",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\FStore.DataAccess.csproj",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\FStore.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\FStore.DataAccess.csproj",
+              "RelativeToolTip": "FStore.DataAccess\\FStore.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T14:37:59.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\DAO\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\DAO\\CategoryDAO.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\DAO\\CategoryDAO.cs",
+              "RelativeToolTip": "FStore.DataAccess\\DAO\\CategoryDAO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:35:37.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\OrderPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\OrderPage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\OrderPage\\Index.cshtml",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\OrderPage\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwBMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T08:17:00.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\OrderPage\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\OrderPage\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\OrderPage\\Details.cshtml.cs",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\OrderPage\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:17:00.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\OrderPage\\Details.cshtml",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\OrderPage\\Details.cshtml",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\OrderPage\\Details.cshtml",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\OrderPage\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T08:16:59.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FStore.BusinessObject\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\AppDbContext.cs",
+              "RelativeToolTip": "FStore.BusinessObject\\AppDbContext.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:00:39.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\OrderPage\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\OrderPage\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\OrderPage\\Create.cshtml.cs",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\OrderPage\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:16:59.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\ProductPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\ProductPage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\ProductPage\\Index.cshtml",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\ProductPage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T08:14:51.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\OrderPage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\OrderPage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\OrderPage\\Index.cshtml.cs",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\OrderPage\\Index.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:17:00.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\IRepository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\IRepository\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\IRepository\\IOrderRepository.cs",
+              "RelativeToolTip": "FStore.DataAccess\\IRepository\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:32:08.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "FStore.DataAccess\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:32:23.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\Order.cs",
+              "RelativeDocumentMoniker": "FStore.BusinessObject\\Order.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\Order.cs",
+              "RelativeToolTip": "FStore.BusinessObject\\Order.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:05:16.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20241102130732__phu.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\Migrations\\20241102130732__phu.cs",
+              "RelativeDocumentMoniker": "FStore.BusinessObject\\Migrations\\20241102130732__phu.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.BusinessObject\\Migrations\\20241102130732__phu.cs",
+              "RelativeToolTip": "FStore.BusinessObject\\Migrations\\20241102130732__phu.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:07:32.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Program.cs",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Program.cs",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:12:58.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\OrderPage\\Create.cshtml",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\OrderPage\\Create.cshtml",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\OrderPage\\Create.cshtml",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\OrderPage\\Create.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAIBJwDQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T08:16:59.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "FStore.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "RelativeToolTip": "FStore.DataAccess\\Repository\\OrderDetailRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:44:26.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\MemberPage\\Create.cshtml",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\MemberPage\\Create.cshtml",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\MemberPage\\Create.cshtml",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\MemberPage\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T07:08:31.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\ProductPage\\Details.cshtml",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\ProductPage\\Details.cshtml",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\ProductPage\\Details.cshtml",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\ProductPage\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T08:14:51.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\Login.cshtml",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T07:55:56.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\MemberPage\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\MemberPage\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\MemberPage\\Create.cshtml.cs",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\MemberPage\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T07:08:31.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Permission.cshtml",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\Permission.cshtml",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\Pages\\Permission.cshtml",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\Pages\\Permission.cshtml",
+              "RelativeToolTip": "FStore.SalesRazorApp\\Pages\\Permission.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T08:17:31.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\appsettings.json",
+              "RelativeDocumentMoniker": "FStore.SalesRazorApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.SalesRazorApp\\appsettings.json",
+              "RelativeToolTip": "FStore.SalesRazorApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T08:11:35.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FStore.WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\phanv\\Documents\\FPT\\PRN221\\Assignment\\FStore\\FStore.WPF\\MainWindow.xaml",
+              "RelativeToolTip": "FStore.WPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T13:41:15.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

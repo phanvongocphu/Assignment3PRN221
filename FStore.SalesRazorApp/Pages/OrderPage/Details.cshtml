@@ -1,0 +1,81 @@
+﻿@page
+@model FStore.SalesRazorApp.Pages.OrderPage.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+    string role = HttpContext.Session.GetString("Role");
+    if (role != "User")
+    {
+        Response.Redirect("/Permission");
+    }
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Order</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Order.OrderDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.OrderDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Order.RequiredDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.RequiredDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Order.ShippedDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.ShippedDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Order.Freight)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.Freight)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Order.Member)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Order.Member.City)
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <h4>Order Details</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Quantity</th>
+                <th>Unit Price</th>
+                <th>Discount</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var detail in Model.Order.OrderDetails)
+            {
+                <tr>
+                    <td>@detail.Product.ProductName</td>
+                    <td>@detail.Quantity</td>
+                    <td>@detail.UnitPrice.ToString("C")</td>
+                    <td>@detail.Discount.ToString("P")</td>
+                    <td>@(detail.UnitPrice * detail.Quantity)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>

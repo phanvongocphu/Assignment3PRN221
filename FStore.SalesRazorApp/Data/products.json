@@ -1,0 +1,58 @@
+[
+  {
+    "ProductId": 1,
+    "CategoryId": 1,
+    "ProductName": "Organic Green Tea",
+    "Weight": "200g",
+    "UnitPrice": 12.99,
+    "UnitInStock": 50,
+    "OrderDetails": [
+      {
+        "OrderId": 1001,
+        "ProductId": 0,
+        "UnitPrice": 12.99,
+        "Quantity": 2,
+        "Discount": 0,
+        "Order": null,
+        "Product": null
+      },
+      {
+        "OrderId": 1002,
+        "ProductId": 0,
+        "UnitPrice": 12.99,
+        "Quantity": 1,
+        "Discount": 0,
+        "Order": null,
+        "Product": null
+      }
+    ]
+  },
+  {
+    "ProductId": 2,
+    "CategoryId": 1,
+    "ProductName": "Organic Black Tea",
+    "Weight": "300g",
+    "UnitPrice": 19.99,
+    "UnitInStock": 50,
+    "OrderDetails": [
+      {
+        "OrderId": 1001,
+        "ProductId": 0,
+        "UnitPrice": 12.99,
+        "Quantity": 2,
+        "Discount": 0,
+        "Order": null,
+        "Product": null
+      },
+      {
+        "OrderId": 1002,
+        "ProductId": 0,
+        "UnitPrice": 12.99,
+        "Quantity": 1,
+        "Discount": 0,
+        "Order": null,
+        "Product": null
+      }
+    ]
+  }
+]
